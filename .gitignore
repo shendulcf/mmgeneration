@@ -124,3 +124,7 @@ runs/
 
 # Pytorch Server
 *.mar
+
+# self
+data/
+work_dirs/
